@@ -214,7 +214,7 @@ header{
     border-radius: var(--border-radius-circle);
 }
 .section-title{
-    padding: 0%;
+    padding: 60px;
 }
 
 .text {
