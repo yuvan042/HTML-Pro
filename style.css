@@ -467,6 +467,10 @@ header{
     color: var(--white-color);
 }
 
+.footer-section .policy-text .separator {
+    color: var(--white-color);
+}
+
 /* Responsive media query code for max width 1024px */
 
 @media screen and (max-width:1024px)  {
