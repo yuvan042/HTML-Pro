@@ -468,6 +468,7 @@ header{
 }
 
 .footer-section .policy-text .separator {
+    margin: 0 5px;
     color: var(--white-color);
 }
 
